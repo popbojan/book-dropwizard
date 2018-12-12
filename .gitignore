@@ -1,0 +1,9 @@
+build/
+.build/
+.build/*
+idea/
+.idea/
+.idea/*
+dependency-reduced-pom.xml
+target/
+target/*
